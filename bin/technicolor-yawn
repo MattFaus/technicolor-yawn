@@ -35,10 +35,10 @@ def format_line(parsed_line):
             'ERROR': 'red',
             'CRITICAL': 'magenta',
         },
-        'date': 'white',
-        'time': 'white',
-        'filename': 'white',
-        'line': 'cyan',
+        'date': 'grey',
+        'time': 'grey',
+        'filename': 'grey',
+        'line': 'grey',
         'message': 'white'
     }
 
